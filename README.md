@@ -8,4 +8,6 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 | 3 |  |  |
 
 ## Table of Contents
-|No.|Sub|Content|Person in Charge|
+| No. | Content | Person in Charge |
+| 1 | content_1 | pic_1 | 
+| 2 | content_2 | pic_2 |
