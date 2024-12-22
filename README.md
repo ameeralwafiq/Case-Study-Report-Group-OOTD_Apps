@@ -5,7 +5,7 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 |----|:-------------:            | :---------------:|
 | 1 | AMEER AL-WAFIQ BIN NORAZAM | 2119005 |
 | 2 | MUHAMMAD HAFIZ BIN ADLAN   | 2114989 |
-| 3 |  |  |
+| 3 | MAZIN MUHAMMED ANES        | 2116025 |
 
 ## Table of Contents
 | No.| Content                   | Person in Charge |
