@@ -16,7 +16,7 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 | - | 2(ii) | Compability of the application with the chosen platform | Ameer, Mazin |
 | - | 2(iii) | Sequence Diagram | Mazin |
 | - | 2(iv) | Screen Navigation Flow | Hafiz |
-| 3 | - | Gantt Chart | Ameer |
+| - | 2(v) | Gantt Chart | Ameer |
 
 
 ## 1. Project Initiation
@@ -71,3 +71,6 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 
 ### iv. Screen Navigation Flow (Logical Design)
 ?
+
+### . Gantt Chart
+![ganttchart_ootd](https://github.com/user-attachments/assets/e7247e38-e944-4c62-9c99-fc069a58d27a)
