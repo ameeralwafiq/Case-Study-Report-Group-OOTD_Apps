@@ -72,5 +72,5 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 ### iv. Screen Navigation Flow (Logical Design)
 ?
 
-### . Gantt Chart
+### v. Gantt Chart
 ![ganttchart_ootd](https://github.com/user-attachments/assets/e7247e38-e944-4c62-9c99-fc069a58d27a)
