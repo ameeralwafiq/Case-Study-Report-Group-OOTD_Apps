@@ -10,5 +10,13 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 ## Table of Contents
 | No.| Content                   | Person in Charge |
 |----|:-------------:            | :---------------:|
-| 1  | content_1                 | pic_1 | 
-| 2  | content_2                 | pic_2 |
+| 1  | Project Initiation                 | Ameer | 
+| 2  | Requirement Analysis                 | Ameer, Hafiz, Mazin |
+
+## 1. Project Initiation
+a) Title 
+b) Background of the problem
+c) Purpose
+d) Target User
+e) Preferred Platform
+f) Features & Functionalities
