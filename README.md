@@ -11,7 +11,7 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 | No. | Sub| Content       | Person in Charge |
 |-----|:--:|:-------------:|:----------:|
 | 1 | - | Project Initiation  | Ameer | 
-| 2 | - | Requirement Analysis| Ameer, Hafiz, Mazin |
+| 2 | - | Requirement Analysis| - |
 | - | 2(i) | Technical Feasibility & Back-End Assessments | Ameer, Hafiz |
 | - | 2(ii) | Compability of the application with the chosen platform | Ameer, Mazin |
 | - | 2(iii) | Sequence Diagram | Mazin |
