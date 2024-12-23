@@ -30,17 +30,24 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - By having a platform where people can keep track their clothes seamlessly and knowing which items are rarely used, they could lessen their temptation to buy new clothes and increase the usage of their catalogs of clothes in a daily basis.
 
 ### c) Purpose
-- To reduce temptation of people to buy new clothes.
-- To help people ease their clothes management.
-- To further help user keep track of their individual clothes.
+- The three main purpose for our application that reflects the problems arise in the global community:
+  1. To reduce temptation of people to buy new clothes.
+  2. To help people ease their clothes management.
+  3. To further help user keep track of their individual clothes.
 
 ### d) Target User
-- Fashion Designer
-- Corporate Adults
-- Social Media Influencers
+- There are several specific target users for our applications;
+  1. Fashion Designer
+  2. Corporate Adults
+  3. Social Media Influencers
+  4. ?
+
+- Other target users will be the general population ranging from 18 to 60 years old that using Android smartphones.
 
 ### e) Preferred Platform
-- ?
+- The preferred platform for the 'OOTD' application is Android. There are several reasons as to why Android is being chosen as the application's platform;
+1. Firstly, Android has a great market reach and very suitable for a developing application to penetrate the market and compete with other similar applications. (Ref...)
+2. Second, the platform has one of the widest community for developing applications in its platform, making it faster and easier to develop application in this platform with lots of tips, step-by-step walkthroughs, issue debugging and etc.
 
 ### f) Features & Functionalities
 #### 1. Outfit Saving and Cataloging
@@ -62,3 +69,4 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 ![Sequence](https://github.com/user-attachments/assets/8b3364cd-94f6-4925-a853-970da5cb36c5)
 
 ### iv. Screen Navigation Flow (Logical Design)
+?
