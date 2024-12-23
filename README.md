@@ -43,11 +43,11 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - ?
 
 ### f) Features & Functionalities
-1. Outfit Saving and Cataloging
+#### 1. Outfit Saving and Cataloging
 - This main feature will allow users to snap and upload photos of their outfits/individual clothing items and to organise those into categories e.g. tops, bottoms, shoes, accessories, etc.
-2. Clothing Matching Assistance
+#### 2. Clothing Matching Assistance
 - Provide mix-and-match feature to help users create new outfit combinations by randomising each categories. Users chosen outfit will be recorded and stored in database for analytics.
-3. Wardrobe Insights Dashboard
+#### 3. Wardrobe Insights Dashboard
 - SHow basic analytics such as; most frequently worn items, least used tops/bottoms/shoes/accessories, total tops/bottoms/shoes/accessories, and also 'Favorites', which user can decide to use and recorded by the application. 
 
 ## 2. Requirement Analysis
