@@ -39,3 +39,7 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 
 ### f) Features & Functionalities
 - 
+
+
+
+![Sequence](https://github.com/user-attachments/assets/8b3364cd-94f6-4925-a853-970da5cb36c5)
