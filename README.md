@@ -17,6 +17,7 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 | - | 2(iii) | Sequence Diagram | Mazin |
 | - | 2(iv) | Screen Navigation Flow | Hafiz |
 | - | 2(v) | Gantt Chart | Ameer |
+| - | 2(vi) | References | All |
 
 
 ## 1. Project Initiation
@@ -74,3 +75,11 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 
 ### v. Gantt Chart
 ![ganttchart_ootd](https://github.com/user-attachments/assets/e7247e38-e944-4c62-9c99-fc069a58d27a)
+
+### vi. References 
+- Horvath, K. (2024, May 10). How many clothes are too many? PIRG. https://pirg.org/articles/how-many-clothes-are-too-many/
+- Coren, M. J. (2023, December 14). Why you should buy clothes to last (almost) forever. Washington Post. https://www.washingtonpost.com/climate-environment/2023/11/07/long-lasting-clothes-fast-fashion/
+- Textiles: Material-Specific Data | US EPA. (2024, November 8). US EPA. https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data
+- Maiti, R. (2024, May 30). Fast fashion and its environmental impact in 2024 | Earth.Org. Earth.Org. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/
+- Burke, C. (2022, May 24). Fashion industry people share how often they buy new clothes. Fashion Journal. https://fashionjournal.com.au/fashion/fashion-industry-people-new-clothes/
+- 
