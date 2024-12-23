@@ -1,4 +1,4 @@
-# Case-Study-Report-Group-OOTD_Apps
+# Case-Study1-Report-Group-OOTD_Apps
 Case Study Report for OOTD Mobile Application - INFO 4335
 ## Group Member Details 
 | No.| Names                     | Matric No. |
