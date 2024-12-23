@@ -61,10 +61,34 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 ## 2. Requirement Analysis
 ### i. Technical Feasibility & Back-End Assessments
 #### Data Storage for CRUD Operations, Packages, Plugins
-- 
+- Based on the features of our application, the data that will be stored in our back-end will comprises of several data:
+1. Images of stored clothing items
+2. User's username and password
+3. List of clothing categories
+4. Analytics data
+5. Outfit combination history data
+
+- The database that we will be using is the Firebase service. Firstly, this is because Firebase is very easy to setup and more simpler. Also, since it is free at first as the Firebase uses pay-as-you-go model, we could limit the user of the application if the database started to reach the maximum free storage (Firebase pricing. (n.d.). Firebase. https://firebase.google.com/pricing). The main considerations for the cost to storing the data in database are:
+1. The image storage - as this is the data that will use lots of space
+2. Database operations for analytics and outfit tracking
+3. Server computing resources
+4. API calls
+
+- Secondly, we also uses Firebase as it has the official Flutter SDK that will ease the developent process. Also, with the Firebase housing the Flutter SDK, the packages and plugins that are offered in Flutter (pub.dev) can be easily obtained and used. These are the list of packages and plugins that we are planning to use:
+1. ``` image_picker ``` - A Flutter plugin for taking new pictures with the camera.
+2. ```cloud_firestore``` - A Flutter plugin for Cloud Firestore, a cloud-hosted, noSQL database with live synchronization and offline support on Android.
+3. ```firebase_storage``` - A Flutter plugin for Firebase Cloud Storage, a powerful, simple, and cost-effective object storage service for Android.
+4. ```flutter_cache_manager``` - Generic cache manager for Flutter.
+5. ```fl_chart``` - A highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
+
+- In conclusion, we concluded that using Firebase is feasible due to the platform's ease of setup, cost-effective pay-as-you-go model, compatibility with Flutter through its official SDK, and the availability of a wide range of packages and plugins that streamline the development process.
+
 
 ### ii. Compability of the application with the chosen platform (smartphone)
-- ?
+- The minimum SDK version of Android that we decide to use is the Android 8.0 which has API Level 26 or higher. The decision is collectively chosen due to the fact that most of the modern version of Android phones is running on Android 8.0 Oreo that was released to public since 2017.
+- Furthermore, according to Adnroid, if we deelop the application targeting Android 8.0, it will still continue working on Android 13 and future versions, with implementation of several features recommended by Android (Source : https://developer.android.com/guide/practices/compatibility).
+- Also, the Android 8.0 supports Camera2 API, that was introduced in Android 5.0. This allows for a more quality photo.
+- Lastly, instead of checking each of the devices Android version, Android also recommend feature-checking on their specific feature inside the smartphone, whether their hardwares are usable or not.
 
 ### iii. Sequence Diagram
 ![Sequence](https://github.com/user-attachments/assets/8b3364cd-94f6-4925-a853-970da5cb36c5)
@@ -88,4 +112,5 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - Combyne. (n.d.). https://www.combyne.com/
 - Binsaeed, S. (2021, December 10). A Virtual wardrobe — my first UX/UI project - Sara Binsaeed - medium. Medium. https://medium.com/@sarabinsaeed/a-virtual-closet-uxdi-project-1-c3dfeaafe70c
 - Rule, D. (2024, May 1). The best Wardrobe apps 2024: Compared & Ranked | Indyx. Indyx. https://www.myindyx.com/blog/the-best-wardrobe-apps
-- 
+- OpenAI. (2024). ChatGPT (Dec 24 version) [Large language model]. https://chatgpt.com/share/67699a19-b588-8009-a793-2995909f1651
+- Anthropic. (2024). Claude (Dec 24 version) [Large language model]. https://claude.ai/chat/1ac5e550-0bd5-4be9-b4f9-efa91e9a8f6a
