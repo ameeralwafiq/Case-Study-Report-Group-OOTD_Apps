@@ -33,21 +33,22 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 
 ### c) Purpose
 - The three main purpose for our application that reflects the problems arise in the global community:
-  1. To reduce temptation of people to buy new clothes.
-  2. To help people ease their clothes management.
-  3. To further help user keep track of their individual clothes.
+  1. To reduce temptation of people to buy new clothes and promote sustainable practice by using owned clothes more often rather than buying new ones.
+  2. To help people ease their clothes management and act as ardrobe organiser.
+  3. To further help user keep track of their individual clothes and other accessories.
 
 ### d) Target User
 - There are several specific target users for our applications;
   1. Fashion Designer : The app is suitable for fashion designer to promote their fashions and try new outfits.
   2. Corporate Adults : Adults that need to plan out outfits before their meetings with others can surely use this to organise their outfits to better match their surroundings.
   3. Social Media Influencers : They will use the application to maxiise their outfit usage especially if they are doing thrifting content or second-hand outfit market, this app can be useful to help the create more combination of clothes.
-- Other target users will be the general population ranging from 18 to 60 years old that using Android smartphones.
+- Other target users will be the general population ranging from 18 to 60 years old that using Android smartphones that seeks to a more sustainable environment and organised wardrobe.
 
 ### e) Preferred Platform
 - The preferred platform for the 'OOTD' application is Android. There are several reasons as to why Android is being chosen as the application's platform;
 1. Android boasts a significant share of the global mobile operating system market, making it an ideal platform for a developing application to penetrate the market and compete with similar apps. (Source: Mobile Operating System Market Share Worldwide | StatCounter Global Stats. n.d., StatCounter Global Stats. Retrieved from https://gs.statcounter.com/os-market-share/mobile/worldwide)
 2. Furthermore, Android offers one of the largest and most active communities for application development. This vibrant ecosystem provides developers with access to numerous resources, including tips, step-by-step walkthroughs, and troubleshooting guides, which streamline the development process and simplify debugging. (Source: Developer. 2017, October 21. Why is Android Application Development So Popular? Medium. Retrieved from https://medium.com/@developer45/why-is-android-application-development-so-popular-18159d2d94c6)
+3. Android also haing various price points for their smartphone platofrms, making them a lot ore cost-effectie compared to other platforms.
 
 ### f) Features & Functionalities
 #### 1. Outfit Saving and Cataloging
@@ -60,7 +61,7 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 ## 2. Requirement Analysis
 ### i. Technical Feasibility & Back-End Assessments
 #### Data Storage for CRUD Operations, Packages, Plugins
-- ?
+- 
 
 ### ii. Compability of the application with the chosen platform (smartphone)
 - ?
@@ -69,7 +70,8 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 ![Sequence](https://github.com/user-attachments/assets/8b3364cd-94f6-4925-a853-970da5cb36c5)
 
 ### iv. Screen Navigation Flow (Logical Design)
-?
+![App FLow Diagram-1](https://github.com/user-attachments/assets/3955fa67-c6ce-49f7-94bf-559dbe88cbc2)
+
 
 ### v. Gantt Chart
 ![ganttchart_ootd](https://github.com/user-attachments/assets/e7247e38-e944-4c62-9c99-fc069a58d27a)
@@ -82,3 +84,8 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - Burke, C. (2022, May 24). Fashion industry people share how often they buy new clothes. Fashion Journal. https://fashionjournal.com.au/fashion/fashion-industry-people-new-clothes/
 - Cladwell. (2013). Personal wardrobe assistant. Cladwell. https://cladwell.com/
 - Storey. (2021). A wardrobe app that simplifies getting dressed. Storey. https://www.storeytheapp.com/
+- GetWardrobe - outfit maker and closet organizer. (n.d.). https://getwardrobe.com/
+- Combyne. (n.d.). https://www.combyne.com/
+- Binsaeed, S. (2021, December 10). A Virtual wardrobe — my first UX/UI project - Sara Binsaeed - medium. Medium. https://medium.com/@sarabinsaeed/a-virtual-closet-uxdi-project-1-c3dfeaafe70c
+- Rule, D. (2024, May 1). The best Wardrobe apps 2024: Compared & Ranked | Indyx. Indyx. https://www.myindyx.com/blog/the-best-wardrobe-apps
+- 
