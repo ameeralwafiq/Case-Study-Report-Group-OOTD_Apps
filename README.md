@@ -80,4 +80,5 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - Textiles: Material-Specific Data | US EPA. (2024, November 8). US EPA. https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/textiles-material-specific-data
 - Maiti, R. (2024, May 30). Fast fashion and its environmental impact in 2024 | Earth.Org. Earth.Org. https://earth.org/fast-fashions-detrimental-effect-on-the-environment/
 - Burke, C. (2022, May 24). Fashion industry people share how often they buy new clothes. Fashion Journal. https://fashionjournal.com.au/fashion/fashion-industry-people-new-clothes/
-- 
+- Cladwell. (2013). Personal wardrobe assistant. Cladwell. https://cladwell.com/
+- Storey. (2021). A wardrobe app that simplifies getting dressed. Storey. https://www.storeytheapp.com/
