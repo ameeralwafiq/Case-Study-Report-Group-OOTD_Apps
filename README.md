@@ -14,7 +14,8 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 | 2  | Requirement Analysis                 | Ameer, Hafiz, Mazin |
 
 ## 1. Project Initiation
-a) Title 
+### a) Title 
+
 b) Background of the problem
 c) Purpose
 d) Target User
