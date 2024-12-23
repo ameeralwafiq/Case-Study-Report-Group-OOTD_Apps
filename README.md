@@ -39,11 +39,9 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 
 ### d) Target User
 - There are several specific target users for our applications;
-  1. Fashion Designer
-  2. Corporate Adults
-  3. Social Media Influencers
-  4. ?
-
+  1. Fashion Designer : The app is suitable for fashion designer to promote their fashions and try new outfits.
+  2. Corporate Adults : Adults that need to plan out outfits before their meetings with others can surely use this to organise their outfits to better match their surroundings.
+  3. Social Media Influencers : They will use the application to maxiise their outfit usage especially if they are doing thrifting content or second-hand outfit market, this app can be useful to help the create more combination of clothes.
 - Other target users will be the general population ranging from 18 to 60 years old that using Android smartphones.
 
 ### e) Preferred Platform
