@@ -10,10 +10,16 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 ## Table of Contents
 | No. | Sub| Content       | Person in Charge |
 |-----|:--:|:-------------:|:----------:|
-| 1 | - | Project Initiation  | Ameer | 
+| 1 | - | Project Initiation  | - |
+| - | 1(a) | Title | Ameer |
+| - | 1(b) | Background of the Problem | Ameer |
+| - | 1(c) | Purpose | Ameer |
+| - | 1(d) | Target User | Ameer |
+| - | 1(e) | Preferred Platform | Ameer, Mazin |
+| - | 1(f) | Feature & Functionalities | Ameer |
 | 2 | - | Requirement Analysis| - |
-| - | 2(i) | Technical Feasibility & Back-End Assessments | Ameer, Hafiz |
-| - | 2(ii) | Compability of the application with the chosen platform | Ameer, Mazin |
+| - | 2(i) | Technical Feasibility & Back-End Assessments | Ameer |
+| - | 2(ii) | Compability of the application with the chosen platform | Ameer |
 | - | 2(iii) | Sequence Diagram | Mazin |
 | - | 2(iv) | Screen Navigation Flow | Hafiz |
 | - | 2(v) | Gantt Chart | Ameer |
