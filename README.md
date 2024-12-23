@@ -8,10 +8,15 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 | 3 | MAZIN MUHAMMED ANES        | 2116025 |
 
 ## Table of Contents
-| No.| Content                   | Person in Charge |
-|----|:-------------:            | :---------------:|
-| 1  | Project Initiation                 | Ameer | 
-| 2  | Requirement Analysis                 | Ameer, Hafiz, Mazin |
+| No. | Sub| Content       | Person in Charge |
+|-----|:--:|:-------------:|:----------:|
+| 1 | - | Project Initiation  | Ameer | 
+| 2 | - | Requirement Analysis| Ameer, Hafiz, Mazin |
+| - | 2(i) | Technical Feasibility & Back-End Assessments | Ameer, Hafiz |
+| - | 2(ii) | Compability of the application with the chosen platform | Ameer, Mazin |
+| - | 2(iii) | Sequence Diagram | Mazin |
+| - | 2(iv) | Screen Navigation Flow | Hafiz |
+
 
 ## 1. Project Initiation
 ### a) Title 
@@ -40,6 +45,15 @@ Case Study Report for OOTD Mobile Application - INFO 4335
 ### f) Features & Functionalities
 - 
 
+## 2. Requirement Analysis
+### i. Technical Feasibility & Back-End Assessments
+#### Data Storage for CRUD Operations, Packages, Plugins
+- ?
 
+### ii. Compability of the application with the chosen platform (smartphone)
+- ?
 
+### iii. Sequence Diagram
 ![Sequence](https://github.com/user-attachments/assets/8b3364cd-94f6-4925-a853-970da5cb36c5)
+
+### iv. Screen Navigation Flow (Logical Design)
