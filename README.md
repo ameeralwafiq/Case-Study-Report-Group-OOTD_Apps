@@ -54,7 +54,7 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - The preferred platform for the 'OOTD' application is Android. There are several reasons as to why Android is being chosen as the application's platform;
 1. Android boasts a significant share of the global mobile operating system market, making it an ideal platform for a developing application to penetrate the market and compete with similar apps. (Source: Mobile Operating System Market Share Worldwide | StatCounter Global Stats. n.d., StatCounter Global Stats. Retrieved from https://gs.statcounter.com/os-market-share/mobile/worldwide)
 2. Furthermore, Android offers one of the largest and most active communities for application development. This vibrant ecosystem provides developers with access to numerous resources, including tips, step-by-step walkthroughs, and troubleshooting guides, which streamline the development process and simplify debugging. (Source: Developer. 2017, October 21. Why is Android Application Development So Popular? Medium. Retrieved from https://medium.com/@developer45/why-is-android-application-development-so-popular-18159d2d94c6)
-3. Android also haing various price points for their smartphone platofrms, making them a lot ore cost-effectie compared to other platforms.
+3. Android also haing various price points for their smartphone platofrms, making them a lot more cost-effective compared to other platforms.
 
 ### f) Features & Functionalities
 #### 1. Outfit Saving and Cataloging
