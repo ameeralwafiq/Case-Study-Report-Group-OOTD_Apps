@@ -18,7 +18,7 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 | - | 1(e) | Preferred Platform | Ameer, Mazin |
 | - | 1(f) | Feature & Functionalities | Ameer |
 | 2 | - | Requirement Analysis| - |
-| - | 2(i) | Technical Feasibility & Back-End Assessments | Ameer |
+| - | 2(i) | Technical Feasibility & Back-End Assessments | Ameer, Mazin |
 | - | 2(ii) | Compability of the application with the chosen platform | Ameer |
 | - | 2(iii) | Sequence Diagram | Mazin |
 | - | 2(iv) | Screen Navigation Flow | Hafiz |
@@ -86,6 +86,8 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 3. ```firebase_storage``` - A Flutter plugin for Firebase Cloud Storage, a powerful, simple, and cost-effective object storage service for Android.
 4. ```flutter_cache_manager``` - Generic cache manager for Flutter.
 5. ```fl_chart``` - A highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
+6. ```uuid``` - A Package used to generate unique identifiers for each saved image, ensuring that each item has a distinct name.
+7. ```flutter_svg``` - A Package used to display SVG images(such as category icons) in Flutter.
 
 - In conclusion, we concluded that using Firebase is feasible due to the platform's ease of setup, cost-effective pay-as-you-go model, compatibility with Flutter through its official SDK, and the availability of a wide range of packages and plugins that streamline the development process.
 
