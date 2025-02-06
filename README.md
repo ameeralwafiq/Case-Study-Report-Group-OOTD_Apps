@@ -119,6 +119,7 @@ class _OOTDHomePageState extends State<OOTDHomePage> {
 
 2. Save the Outfit
 
+```dart
      void saveOutfit() {
     setState(() {
       savedOutfits.add({
@@ -127,16 +128,18 @@ class _OOTDHomePageState extends State<OOTDHomePage> {
         'shoe': currentShoe,
       });
     });
-
+``` 
 3. Showing SnackBar
 
+```dart
    ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(
         content: Text('Outfit saved successfully!'),
         duration: Duration(seconds: 2),
       ),
     );
-  
+ ```
+ 
 #### 3. Wardrobe Insights Dashboard
 - SHow basic analytics such as; most frequently worn items, least used tops/bottoms/shoes/accessories, total tops/bottoms/shoes/accessories, and also 'Favorites', which user can decide to use and recorded by the application. 
 
