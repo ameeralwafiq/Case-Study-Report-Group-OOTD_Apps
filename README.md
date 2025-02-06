@@ -61,6 +61,77 @@ Case Study 1 Report for OOTD Mobile Application - INFO 4335
 - This main feature will allow users to snap and upload photos of their outfits/individual clothing items and to organise those into categories e.g. tops, bottoms, shoes, accessories, etc.
 #### 2. Clothing Matching Assistance
 - Provide mix-and-match feature to help users create new outfit combinations by randomising each categories. Users chosen outfit will be recorded and stored in database for analytics.
+
+Code Snippets 
+
+1. Randomising The Outfit 
+
+class _OOTDHomePageState extends State<OOTDHomePage> {
+  // Lists to store image paths for each category
+  List<String> tops = [
+    'assets/tops/top1.jpg',
+    'assets/tops/top2.jpg',
+    'assets/tops/top3.jpg',
+  ];
+
+  List<String> bottoms = [
+    'assets/bottoms/bottom1.jpg',
+    'assets/bottoms/bottom2.jpg',
+    'assets/bottoms/bottom3.jpg',
+  ];
+
+  List<String> shoes = [
+    'assets/shoes/shoe1.jpg',
+    'assets/shoes/shoe2.jpg',
+    'assets/shoes/shoe3.jpg',
+  ];
+
+  // Variables to store the current outfit
+  String currentTop = '';
+  String currentBottom = '';
+  String currentShoe = '';
+
+  // List to store saved outfits
+  List<Map<String, String>> savedOutfits = [];
+
+  // Random number generator
+  final Random _random = Random();
+
+  @override
+  void initState() {
+    super.initState();
+    generateOutfit();
+  }
+
+  // Function to generate a random outfit
+  void generateOutfit() {
+    setState(() {
+      currentTop = tops[_random.nextInt(tops.length)];
+      currentBottom = bottoms[_random.nextInt(bottoms.length)];
+      currentShoe = shoes[_random.nextInt(shoes.length)];
+    });
+  }
+
+2. Save the Outfit
+
+     void saveOutfit() {
+    setState(() {
+      savedOutfits.add({
+        'top': currentTop,
+        'bottom': currentBottom,
+        'shoe': currentShoe,
+      });
+    });
+
+3. Showing SnackBar
+
+   ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Outfit saved successfully!'),
+        duration: Duration(seconds: 2),
+      ),
+    );
+  
 #### 3. Wardrobe Insights Dashboard
 - SHow basic analytics such as; most frequently worn items, least used tops/bottoms/shoes/accessories, total tops/bottoms/shoes/accessories, and also 'Favorites', which user can decide to use and recorded by the application. 
 
