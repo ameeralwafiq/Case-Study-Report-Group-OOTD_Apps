@@ -66,7 +66,7 @@ Code Snippets
 
 1. Randomising The Outfit 
 
-'''dart
+'''
 class _OOTDHomePageState extends State<OOTDHomePage> {
   // Lists to store image paths for each category
   List<String> tops = [
