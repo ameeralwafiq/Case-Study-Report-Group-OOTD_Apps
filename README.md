@@ -112,7 +112,6 @@ class _OOTDHomePageState extends State<OOTDHomePage> {
       currentShoe = shoes[_random.nextInt(shoes.length)];
     });
   }
-
   '''
 
 2. Save the Outfit
