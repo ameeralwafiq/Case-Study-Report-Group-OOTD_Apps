@@ -66,6 +66,7 @@ Code Snippets
 
 1. Randomising The Outfit 
 
+'''
 class _OOTDHomePageState extends State<OOTDHomePage> {
   // Lists to store image paths for each category
   List<String> tops = [
@@ -111,6 +112,8 @@ class _OOTDHomePageState extends State<OOTDHomePage> {
       currentShoe = shoes[_random.nextInt(shoes.length)];
     });
   }
+
+  '''
 
 2. Save the Outfit
 
