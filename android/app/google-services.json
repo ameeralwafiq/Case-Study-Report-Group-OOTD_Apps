@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672127735450",
+    "project_id": "ootd-624db",
+    "storage_bucket": "ootd-624db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672127735450:android:6105bb729cb48feb37f123",
+        "android_client_info": {
+          "package_name": "com.company.ootd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5A8IFGyPtwBWq4u89GME48duLJKs3tUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
